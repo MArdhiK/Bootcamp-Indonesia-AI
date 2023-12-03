@@ -17,7 +17,17 @@ We made 4 models and compare it to, which one is the best <br>
 
 Thats all in defaullt mode, no data augmentation, no change in parameter
 
+Here's the results from Yolov5s
+<img src=images&video/yolov5s.png width=500>
 
+Here's the results from Yolov5x
+<img src=images&video/yolov5x.png width=500>
+
+Here's the results from Yolov8s
+<img src=images&video/yolov8s.png width=500>
+
+Here's the results from Yolov8x
+<img src=images&video/yolov8x.png width=500>
 
 
 Here's the result of video tracking from model Yolov8x <br>
