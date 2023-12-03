@@ -17,17 +17,16 @@ We made 4 models and compare it to, which one is the best <br>
 
 Thats all in defaullt mode, no data augmentation, no change in parameter <br>
 
-Here's the results from Yolov5s <br>
-<img src=images&video/yolov5s.png width=500>
+Here's the results from Yolov5s &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Here's the results from Yolov5x <br>
+<img src=images&video/yolov5s.png width=450> &emsp;&emsp;&emsp;     <img src=images&video/yolov5x.png width=450>
 
-Here's the results from Yolov5x <br>
-<img src=images&video/yolov5x.png width=500>
 
-Here's the results from Yolov8s <br>
-<img src=images&video/yolov8s.png width=500>
 
-Here's the results from Yolov8x <br>
-<img src=images&video/yolov8x.png width=500>
+Here's the results from Yolov8s &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Here's the results from Yolov8x <br>
+<img src=images&video/yolov8s.png width=450> &emsp;&emsp;&emsp;    <img src=images&video/yolov8x.png width=450>
+
+
+
 
 <br>
 Here's the result of video tracking from model Yolov8x <br>
