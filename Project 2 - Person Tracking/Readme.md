@@ -15,21 +15,21 @@ We made 4 models and compare it to, which one is the best <br>
 | Yolov8s    |  75    | 1.772 hours  |  0.632  |
 | Yolov8x    |  75    | 2.678 hours  |  0.649  |
 
-Thats all in defaullt mode, no data augmentation, no change in parameter
+Thats all in defaullt mode, no data augmentation, no change in parameter <br>
 
-Here's the results from Yolov5s
+Here's the results from Yolov5s <br>
 <img src=images&video/yolov5s.png width=500>
 
-Here's the results from Yolov5x
+Here's the results from Yolov5x <br>
 <img src=images&video/yolov5x.png width=500>
 
-Here's the results from Yolov8s
+Here's the results from Yolov8s <br>
 <img src=images&video/yolov8s.png width=500>
 
-Here's the results from Yolov8x
+Here's the results from Yolov8x <br>
 <img src=images&video/yolov8x.png width=500>
 
-
+<br>
 Here's the result of video tracking from model Yolov8x <br>
 https://github.com/MArdhiK/Bootcamp-Indonesia-AI/assets/85994604/0193890b-7294-4e2b-8744-e29421695070
 
