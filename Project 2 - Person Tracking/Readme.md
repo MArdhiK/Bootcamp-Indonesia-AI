@@ -13,6 +13,6 @@ We made 4 models and compare it to, which one is the best
 | Yolov5s    |  50    | 0.662 hours  |  0.477  |
 | Yolov5x    |  75    | 2.610 hours  |  0.568  |
 | Yolov8s    |  75    | 1.772 hours  |  0.632  |
-| Yolov8x    |  75    | 2.610 hours  |  0.568  |
+| Yolov8x    |  75    |  hours  |    |
 
 Thats all in defaullt mode, no data augmentation, no change in parameter
