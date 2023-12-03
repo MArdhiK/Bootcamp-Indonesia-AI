@@ -20,6 +20,6 @@ Thats all in defaullt mode, no data augmentation, no change in parameter
 
 
 
-Here's the result of video tracking from model Yolov8x
+Here's the result of video tracking from model Yolov8x <br>
 https://github.com/MArdhiK/Bootcamp-Indonesia-AI/assets/85994604/0193890b-7294-4e2b-8744-e29421695070
 
