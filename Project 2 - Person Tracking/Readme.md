@@ -1,12 +1,12 @@
 # Person Tracking
 
-The aim of this project is to build a model that can tracking person.
-The dataset that we use is from COCO Dataset and only use the class 'person' in image form and its annotation.
-± 3000 images as trainset
-± 1000 images as validationset
-± 500 images as testset
-After we build model from the image dataset, we can apply the model into the video test, and see how well our model work.
-We made 4 models and compare it to, which one is the best
+The aim of this project is to build a model that can tracking person. <br>
+The dataset that we use is from COCO Dataset and only use the class 'person' in image form and its annotation. <br>
+± 3000 images as trainset <br>
+± 1000 images as validationset <br>
+± 500 images as testset <br>
+After we build model from the image dataset, we can apply the model into the video test, and see how well our model work. <br>
+We made 4 models and compare it to, which one is the best <br>
 
 | Model Name | Epochs |  Time        | mAP50   |
 | ---------  | ------ |  ----        |  ---    |
