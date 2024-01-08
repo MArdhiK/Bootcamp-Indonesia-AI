@@ -8,7 +8,7 @@ Here's the example of data sample that have been visualized <br>
 <img src=Img/Data%20Sample%20Visualization.png width=850>
 <br>
 Here's some experiment that we've been done, <br>
-Optimizer = Adam , loss = 'categorical_crossentropy', ' metrics=Accuracy
+Optimizer = Adam , loss = 'categorical_crossentropy', metrics=Accuracy
 | Epochs |  learning_rate | weight_decay |  val_acc|
 | ------ |  ----          |  ---         | ----    |
 | 15     | 0.0001         |  0.001       | 0.7236  |
